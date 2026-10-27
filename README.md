@@ -74,6 +74,5 @@ This is a suggested learning progression, not a mandatory certification sequence
 
 Combine official AWS exam preparation materials with hands-on practice in monitoring, automation, networking, and operational troubleshooting.
 
-- **Official AWS Resources**: Review the [AWS Certified CloudOps Engineer - Associate page](https://aws.amazon.com/certification/certified-cloudops-engineer-associate/) and the [official SOA-C03 exam guide](https://docs.aws.amazon.com/aws-certification/latest/sysops-administrator-associate-03/sysops-administrator-associate-03.html).
 - **CertsGate**: Explore [SOA-C03 certification preparation resources](https://certsgate.com/exams/amazon/soa-c03) for supplementary study materials and practice questions.
 - **Practical AWS Study**: Use the [Amazon CloudWatch documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html) to explore metrics, logs, alarms, dashboards, and workload monitoring.
